@@ -1,0 +1,68 @@
+.searchPage__header {
+
+    display: flex;
+    position: sticky;
+    top:0;
+    z-index:100;
+    background-color: white;
+    align-items: flex-start;
+    padding: 30px;
+    border-bottom: 1px solid lightgray;
+}
+
+.searchPage__header .logo{
+
+    width: 180px;
+    height: 100px;
+    margin-right: 30px;
+
+}
+
+.searchPage__option {
+
+    display: flex;
+    align-items: center;
+    color: gray;
+    margin-top: 30px;
+    flex-direction: row;
+    margin-left: 15px;
+}
+
+.searchPage__option a {
+
+    text-decoration: none;
+    color: gray;
+    margin-left: 5px;
+}
+
+.searchPage__optionsLeft, .searchPage__optionRight {
+
+    display: flex;
+    align-items: center;
+
+}
+
+.searchPage__options {
+
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+
+}
+
+.searchPage__optionRight {
+
+    margin-left: 40px;
+    
+}
+.searchPage__options a {
+
+    text-decoration: none;
+    color: gray;
+}
+
+.searchPage .search__input {
+
+    margin-top: 0px;
+    height: 40%;
+}

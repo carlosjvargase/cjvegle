@@ -1,0 +1,22 @@
+.result{
+    height: 100vh;
+    display: flex;
+    justify-content: left;
+    margin-left: 20px;
+    margin-top: 5px;
+    flex-direction: column;
+    padding: 10;
+}
+
+a {
+
+    color: blue;
+    text-transform: uppercase;
+    margin-bottom: 2px;
+}
+
+p {
+    color: gray;
+    font-size: 14px;
+   margin-top: 1px; 
+}
