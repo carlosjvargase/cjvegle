@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# Cjvegle App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![cjvegle1](https://user-images.githubusercontent.com/104727028/194652169-54e32106-be13-489b-bd35-805b7f54854e.PNG)
 
-## Available Scripts
+🇺🇸 Project's Name: Cjvegle.
 
-In the project directory, you can run:
 
-### `npm start`
+Web application inspired by the most famous and important search engine in the world which is Google, we made a home page similar to the one we can get when searching www.google.com, where the operation is very similar, you will place the keyword you want to get and in a few seconds you will have different links with their titles of what you gave to search. The application was built using different tools like React Js, Material UI, React Router, Axios, React Loader Spinner, Google Search API, Firebase and different Hooks like useNavigate, useState, useEffect, useParams.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+🇪🇸 Nombre del Proyecto: Cjvegle.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+Aplicación web inspirada en el Motor de Búsqueda más famoso e importante del mundo que es Google, se realizó una pagina principal similar a la que podemos conseguir al momento de buscar www.google.com, donde el funcionamiento es muy similar, colocaras la palabra claves que quieres conseguir y en unos pocos segundos tendrás diferentes links con sus títulos de lo que le diste a buscar. La aplicación fue construida utilizando diferentes herramientas como React Js, Material UI, React Router, Axios, React Loader Spinner, Google Search API, Firebase y diferentes Hooks como useNavigate, useState, useEffect, useParams.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Web Site: http://cjvegle.click//
+Other Link https://cjvegle.web.app/
